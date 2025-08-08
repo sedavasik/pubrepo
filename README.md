@@ -1,1 +1,2 @@
 # pubrepo
+Vasikuv verejny repositar
